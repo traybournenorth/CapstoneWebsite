@@ -1,0 +1,223 @@
+/* Details that modify the index.html page */
+html 
+{
+    background: #fff;
+    height: 100%;
+    margin: 0;
+}
+
+/* Details that modify the projectDetails.html page */
+#projectDetailHTML
+{
+    background: #fff;
+    height: 200%;
+    margin: 0;
+}
+
+/* Details and aligns the header */
+h1
+{
+    text-align: center;
+    color: black;
+    text-decoration: underline;
+}
+
+/* Styles the logo */
+#LogoPicture
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 250px;
+    width: 250px;
+}
+
+/* Details that modify the body */
+body 
+{
+    background: #DEDEE0;
+    color: #545454;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+/* Edits the welcome text */
+#WelcomeText
+{
+    text-align: center;
+    color: black;
+    margin-top: 2em;
+    margin-left: 10em;
+    margin-right: 10em;
+    
+}
+
+/* Details that modify the navigation bar */
+#navigationBar
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+/* Allows items to float to the left */
+li
+{
+    float: left;
+}
+
+/* Styles and aligns each item in navigation bar */
+li a
+{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 25px 25px;
+    text-decoration: none;
+}
+
+/* Hover effect whenever your mouse is over an item in the navigation bar */
+li a:hover
+{
+    background-color: #001f4d;
+}
+
+/* Styles links in deliverables page */
+#links
+{
+    margin-top: 2em;
+    text-align: center;
+}
+
+/* Styles the footer */
+#footer
+{
+    display: block;
+    padding: 25px 25px;
+    background-color: black;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+}
+
+/* Styles Traybourne's Picture */
+#Traybourne
+{
+    float: left;
+    color: black;
+    width: 20%;
+    text-align: center;
+    font-style: normal;
+    font-size: smaller;
+    text-indent: 0;
+    margin: 0.5em;
+    padding: 0.5em;
+}
+
+/* Styles Noah's Picture */
+#Noah
+{
+    float: left;
+    color: black;
+    width: 20%;
+    text-align: center;
+    font-style: normal;
+    font-size: smaller;
+    text-indent: 0;
+    margin: 0.5em;
+    padding: 0.5em;
+}
+
+/* Styles Spencer's Picture */
+#Spencer
+{
+    float: left;
+    color: black;
+    width: 20%;
+    text-align: center;
+    font-style: normal;
+    font-size: smaller;
+    text-indent: 0;
+    margin: 0.5em;
+    padding: 0.5em;
+}
+
+/* Styles Langqing's Picture */
+#Langqing
+{
+    float: left;
+    color: black;
+    width: 20%;
+    text-align: center;
+    font-style: normal;
+    font-size: smaller;
+    text-indent: 0;
+    margin: 0.5em;
+    padding: 0.5em;
+}
+
+/* Styles Miguel's Picture */
+#Miguel
+{
+    float: none;
+    color: black;
+    width: 20%;
+    text-align: center;
+    font-style: normal;
+    font-size: smaller;
+    text-indent: 0;
+    margin: 0.5em;
+    padding: 0.5em;
+}
+
+/* Styles Sponsor's Picture */
+#Sponsor
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    width: 20%;
+    text-align: center;
+    font-style: normal;
+    font-size: smaller;
+    text-indent: 0;
+    padding: 0.5em;
+}
+
+/* Formats Sponsor information */
+#SponsorInformation
+{
+    text-align: center;
+    color: black;
+    margin: 3em;
+}
+
+/* Styles the logo on Project Details page */
+#DetailLogoPicture
+{
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Formats project details information */
+#ProjectDetails
+{
+    text-align: center;
+    color: black;
+    margin-left: 10em;
+    margin-right: 10em;
+}
+
+
+
+
+
