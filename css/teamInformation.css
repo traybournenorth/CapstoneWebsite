@@ -82,6 +82,72 @@ li a:hover
     letter-spacing: .02em;
 }
 
+/* Noah Container */
+#NoahContainer
+{
+    display: block;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:rgba(191, 140, 63, 0.1);
+    padding: 40px;
+    border-radius: 30px;
+    width: 60%;
+}
+
+/* Noah image */
+#Noah
+{
+    display: inline-block;
+    margin-right: auto;
+    border-radius: 50%;
+}
+
+/* Noah Information */
+#NoahInfo
+{
+    display: inline-block;
+    padding-left: 100px;
+    font-family: Verdana;
+    font-size: 22px;
+    font-weight: 350;
+    text-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2); 
+    letter-spacing: .02em;
+}
+
+/* Spencer Container */
+#SpencerContainer
+{
+    display: block;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:rgba(38, 28, 12, 0.15);
+    padding: 40px;
+    border-radius: 30px;
+    width: 60%;
+}
+
+/* Spencer image */
+#Spencer
+{
+    display: inline-block;
+    margin-right: auto;
+    border-radius: 50%;
+}
+
+/* Spencer Information */
+#SpencerInfo
+{
+    display: inline-block;
+    padding-left: 100px;
+    font-family: Verdana;
+    font-size: 22px;
+    font-weight: 350;
+    text-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2); 
+    letter-spacing: .02em;
+}
+
 /* Styles the footer */
 #footer
 {
