@@ -57,7 +57,7 @@ li a:hover
     margin-left: auto;
     margin-right: auto;
     background-color:rgba(77, 155, 250, 0.3);
-    padding: 50px;
+    padding: 40px;
     border-radius: 30px;
     width: 60%;
 }
@@ -74,7 +74,12 @@ li a:hover
 #TraybourneInfo
 {
     display: inline-block;
-    bottom: 200px;
+    padding-left: 100px;
+    font-family: Verdana;
+    font-size: 22px;
+    font-weight: 350;
+    text-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2); 
+    letter-spacing: .02em;
 }
 
 /* Styles the footer */
