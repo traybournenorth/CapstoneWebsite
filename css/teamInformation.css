@@ -1,0 +1,92 @@
+/* Details that modify the body */
+body 
+{
+    background: #C8CFD9;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    min-height: 100%;
+}
+
+/* Details that modify the navigation bar */
+#navigationBar
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 9999;
+}
+
+/* Allows items to float to the left */
+li
+{
+    float: left;
+}
+
+/* Styles and aligns each item in navigation bar */
+li a
+{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 25px 25px;
+    text-decoration: none;
+    font-weight: 250;
+    letter-spacing: .02em;
+}
+
+/* Hover effect whenever your mouse is over an item in the navigation bar */
+li a:hover
+{
+    background-color: #001f4d;
+}
+
+/* Traybourne Container */
+#TraybourneContainer
+{
+    display: block;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:rgba(77, 155, 250, 0.3);
+    padding: 50px;
+    border-radius: 30px;
+    width: 60%;
+}
+
+/* Traybourne image */
+#Traybourne
+{
+    display: block;
+    margin-right: auto;
+    border-radius: 50%;
+}
+
+/* Traybourne Information */
+#TraybourneInfo
+{
+    position: inherit;
+    text-align: right;
+}
+
+/* Styles the footer */
+#footer
+{
+    bottom: 0;
+    padding: 20px;
+    left: 0;
+    width: 100%;
+    position: fixed;
+    background-color: black;
+    color: white;
+    font-weight: 250;
+    letter-spacing: .02em;
+}
