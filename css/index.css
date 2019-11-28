@@ -53,6 +53,7 @@ li a:hover
 #BackgroundContainer
 {
     display: block;
+    background-image: url(indexBackground.JPG);
     margin-left: auto;
     margin-right: auto;
     border-radius: 50px;
