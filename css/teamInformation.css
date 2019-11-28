@@ -148,6 +148,73 @@ li a:hover
     letter-spacing: .02em;
 }
 
+/* Langqing Container */
+#LangqingContainer
+{
+    display: block;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:rgba(250, 154, 10, 0.25);
+    padding: 40px;
+    border-radius: 30px;
+    width: 60%;
+}
+
+/* Langqing image */
+#Langqing
+{
+    display: inline-block;
+    margin-right: auto;
+    border-radius: 50%;
+}
+
+/* Langqing Information */
+#LangqingInfo
+{
+    display: inline-block;
+    padding-left: 100px;
+    font-family: Verdana;
+    font-size: 22px;
+    font-weight: 350;
+    text-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2); 
+    letter-spacing: .02em;
+}
+
+/* Miguel Container */
+#MiguelContainer
+{
+    display: block;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+    background-color:rgba(249, 235, 214, 0.3);
+    padding: 40px;
+    border-radius: 30px;
+    width: 60%;
+}
+
+/* Miguel image */
+#Miguel
+{
+    display: inline-block;
+    margin-right: auto;
+    border-radius: 50%;
+}
+
+/* Miguel Information */
+#MiguelInfo
+{
+    display: inline-block;
+    padding-left: 100px;
+    font-family: Verdana;
+    font-size: 22px;
+    font-weight: 350;
+    text-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2); 
+    letter-spacing: .02em;
+}
+
 /* Styles the footer */
 #footer
 {
