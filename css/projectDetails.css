@@ -1,0 +1,270 @@
+/* Details that modify the body */
+body 
+{
+    background: #C8CFD9;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    min-height: 100%;
+}
+
+/* Details that modify the navigation bar */
+#navigationBar
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 9999;
+}
+
+/* Styles logo picture */
+#LogoPicture
+{
+    display: block;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+
+/* Allows items to float to the left */
+li
+{
+    float: left;
+}
+
+/* Styles and aligns each item in navigation bar */
+li a
+{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 25px 25px;
+    text-decoration: none;
+    font-weight: 250;
+    letter-spacing: .02em;
+}
+
+/* Hover effect whenever your mouse is over an item in the navigation bar */
+li a:hover
+{
+    background-color: #001f4d;
+}
+
+/* Detail logo picture */
+#DetailLogoPicture
+{
+    display: block;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+
+/* Project Details */
+#ProjectDetails
+{
+    display: block;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    background-color:rgba(77, 155, 250, 0.3);
+    padding: 10px;
+    border-radius: 30px;
+    width: 80%;
+}
+
+/* Project detail text */
+#ProjectDetailText
+{
+    padding: 10px;
+    font-weight: 250;
+    letter-spacing: .02em;
+}
+
+/* High level requirements */
+#HighLevelRequirements
+{
+    display: block;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    background-color:rgba(77, 155, 250, 0.3);
+    padding: 10px;
+    border-radius: 30px;
+    width: 80%;
+}
+
+/* High level requirement text */
+#HighLevelRequirementText
+{
+    padding: 10px;
+    font-weight: 250;
+    letter-spacing: .02em;
+}
+
+/* Tracking System image */
+#TrackingSystem
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 30px;
+}
+
+/* Module Mastery System image */
+#ModuleMasterySystem
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 30px;
+}
+
+/* Envisioned Solution */
+#EnvisionedSolution
+{
+    display: block;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    background-color:rgba(77, 155, 250, 0.3);
+    padding: 10px;
+    border-radius: 30px;
+    width: 80%;
+}
+
+/* Envisioned solution text */
+#EnvisionedSolutionText
+{
+    padding: 10px;
+    font-weight: 250;
+    letter-spacing: .02em;
+}
+
+/* Technologies */
+#Technologies
+{
+    display: block;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    background-color:rgba(77, 155, 250, 0.3);
+    padding: 10px;
+    border-radius: 30px;
+    width: 80%;
+}
+
+/* Technologies text */
+#TechnologiesText
+{
+    padding: 10px;
+    font-weight: 250;
+    letter-spacing: .02em;
+}
+
+/* Schedule */
+#Schedule
+{
+    display: block;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    background-color:rgba(77, 155, 250, 0.3);
+    padding: 10px;
+    border-radius: 30px;
+    width: 80%;
+}
+
+/* Schedule text */
+#ScheduleText
+{
+    padding: 10px;
+    font-weight: 250;
+    letter-spacing: .02em; 
+}
+
+/* Schedule image */
+#ScheduleImage
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    border-radius: 30px;
+    height: 400px;
+    width: 80%;
+}
+
+/* CodeBase */
+#CodeBase
+{
+    display: block;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    background-color:rgba(77, 155, 250, 0.3);
+    padding: 10px;
+    border-radius: 30px;
+    width: 80%;
+}
+
+/* CodeBase text */
+#CodeBaseText
+{
+    padding: 10px;
+    font-weight: 250;
+    letter-spacing: .02em;
+}
+
+/* Demo */
+#Demo
+{
+    display: block;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+    background-color:rgba(77, 155, 250, 0.3);
+    padding: 10px;
+    border-radius: 30px;
+    width: 80%;
+}
+
+/* Demo text */
+#DemoText
+{
+    padding: 10px;
+    font-weight: 250;
+    letter-spacing: .02em;
+}
+
+/* Styles the footer */
+#footer
+{
+    bottom: 0;
+    padding: 20px;
+    left: 0;
+    width: 100%;
+    position: fixed;
+    background-color: black;
+    color: white;
+    font-weight: 250;
+    letter-spacing: .02em;
+}
