@@ -65,7 +65,7 @@ li a:hover
 /* Traybourne image */
 #Traybourne
 {
-    display: block;
+    display: inline-block;
     margin-right: auto;
     border-radius: 50%;
 }
@@ -73,8 +73,8 @@ li a:hover
 /* Traybourne Information */
 #TraybourneInfo
 {
-    position: inherit;
-    text-align: right;
+    display: inline-block;
+    bottom: 200px;
 }
 
 /* Styles the footer */
