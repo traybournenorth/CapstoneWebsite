@@ -177,6 +177,58 @@ li a:hover
     letter-spacing: .02em;
 }
 
+/* GitHub image */
+#GitHub
+{
+    display: inline-block;
+    padding: 30px;
+    text-align: center;
+    font-style: italic;
+    text-indent: 0;
+    padding: 0.5em;
+    font-weight: 250;
+    letter-spacing: .02em; 
+}
+
+/* Brackets image */
+#Brackets
+{
+    display: inline-block;
+    padding: 30px;
+    text-align: center;
+    font-style: italic;
+    text-indent: 0;
+    padding: 0.5em;
+    font-weight: 250;
+    letter-spacing: .02em; 
+}
+
+/* MySQL image */
+#MySQL
+{
+    display: inline-block;
+    padding: 30px;
+    text-align: center;
+    font-style: italic;
+    text-indent: 0;
+    padding: 0.5em;
+    font-weight: 250;
+    letter-spacing: .02em; 
+}
+
+/* FileZilla image */
+#FileZilla
+{
+    display: inline-block;
+    padding: 30px;
+    text-align: center;
+    font-style: italic;
+    text-indent: 0;
+    padding: 0.5em;
+    font-weight: 250;
+    letter-spacing: .02em; 
+}
+
 /* Schedule */
 #Schedule
 {
@@ -206,9 +258,7 @@ li a:hover
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 50px;
-    border-radius: 30px;
-    height: 400px;
-    width: 80%;
+    border-radius: 20px;
 }
 
 /* CodeBase */
