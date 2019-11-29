@@ -259,6 +259,8 @@ li a:hover
     margin-right: auto;
     margin-bottom: 50px;
     border-radius: 20px;
+    height: 30%;
+    width: 80%;
 }
 
 /* CodeBase */
