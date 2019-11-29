@@ -155,6 +155,15 @@ li a:hover
     letter-spacing: .02em;
 }
 
+/* Envisioned Solution image */
+#EnvisionedSolutionPicture
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100%;
+}
+
 /* Technologies */
 #Technologies
 {
